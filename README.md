@@ -15,7 +15,7 @@ Built for low-light setups and people who hate visual noise.
 ## Files
 - `nord-mousepad.png` — final mousepad design  
 - `preview.png` — preview image for GitHub
-
+- `nord-mousepad.xml` — Mousepad (GtkSourceView) Nord theme
 ## Usage
 Free to use for personal setups or printing.  
 If you modify or redistribute it, give proper credit.
