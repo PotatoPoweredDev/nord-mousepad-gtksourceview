@@ -21,4 +21,4 @@ Free to use for personal setups or printing.
 If you modify or redistribute it, give proper credit.
 
 ## License
-Creative Commons Attribution 4.0 (CC BY 4.0)
+Creative Commons Attribution 1.0
