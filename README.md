@@ -4,7 +4,7 @@ A clean, minimal **dark-mode mousepad design** inspired by the Nord color palett
 Built for low-light setups and people who hate visual noise.
 
 ## Preview
-![Nord Mousepad Preview](preview.png)
+![Nord Mousepad Preview](nord-mousepad.png)
 
 ## Features
 - Nord-inspired dark color scheme
